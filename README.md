@@ -84,3 +84,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/samin-al-wasee/samin-al-wasee/output/snake.svg" alt="Snake animation" />
+
+###
